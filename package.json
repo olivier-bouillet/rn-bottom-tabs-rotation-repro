@@ -1,0 +1,21 @@
+{
+  "name": "rn-bottom-tabs-rotation-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "7.19.2",
+    "@react-navigation/native": "7.4.1",
+    "expo": "57.0.24",
+    "expo-build-properties": "57.0.21",
+    "expo-status-bar": "~3.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "5.9.1",
+    "react-native-screens": "4.27.0"
+  },
+  "private": true
+}
