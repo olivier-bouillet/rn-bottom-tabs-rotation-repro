@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "rn-bottom-tabs-rotation-repro",
+    "slug": "rn-bottom-tabs-rotation-repro",
+    "version": "1.0.0",
+    "orientation": "default",
+    "ios": {
+      "bundleIdentifier": "com.example.bottomtabsrotationrepro",
+      "supportsTablet": true
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "enableSceneSupport": true
+          }
+        }
+      ]
+    ]
+  }
+}
